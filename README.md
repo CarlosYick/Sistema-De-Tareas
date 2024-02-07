@@ -1,3 +1,6 @@
+![](https://niixer.com/wp-content/uploads/2020/11/spring-boot.png)
+![](https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png)
+
 ## Descripción ##
 
 Apicación de un Sistema de Tareas, hecha con Spring Boot, JavaFX y el gestor de Bases de Datos MySQL, tiene todas las funcionalidades básicas de cualquier Aplicación como mostrar 
